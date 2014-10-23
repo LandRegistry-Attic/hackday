@@ -6,6 +6,8 @@ Ideas should meet the needs of a real user, and may be take further under the La
 
 ## Schedule
 
+Time | Activity
+-----|---------
 9:00 | Introductions
 12:00 | Lunch (self-organised)
 17:00 | Tea
