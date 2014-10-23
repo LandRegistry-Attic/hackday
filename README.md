@@ -26,3 +26,11 @@ Great ideas may be take further as a part of the Digital Service or under the La
 * https://gds.blog.gov.uk/2014/08/05/this-is-what-transformation-looks-like/
 * https://designnotes.blog.gov.uk/2014/08/04/why-governments-need-hack-days/ 
 * http://en.wikipedia.org/wiki/Hackathon
+
+# Public resources
+
+* https://www.gov.uk/government/organisations/land-registry
+* https://www.gov.uk/land-registration/data
+* https://www.gov.uk/browse/housing-local-services/owning-renting-property
+* https://www.gov.uk/government/publications/land-registry-office-addresses/office-addresses
+* http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
