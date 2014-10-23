@@ -25,3 +25,4 @@ Great ideas may be take further as a part of the Digital Service or under the La
 
 * https://gds.blog.gov.uk/2014/08/05/this-is-what-transformation-looks-like/
 * https://designnotes.blog.gov.uk/2014/08/04/why-governments-need-hack-days/ 
+* http://en.wikipedia.org/wiki/Hackathon
