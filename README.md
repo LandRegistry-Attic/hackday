@@ -4,7 +4,7 @@ This repository contains public notes and links to open data sets for the intern
 
 Attendance is open to all Land Registry staff and people from other organisations working on the Land Registry Digital Service, but is otherwise by invitation only.
 
-<a href="https://raw.githubusercontent.com/LandRegistry/hackday/master/poster.pdf"<img src="poster.png"></a>
+<a href="poster.pdf"><img src="poster.png"></a>
 
 # What is a hackday?
 
