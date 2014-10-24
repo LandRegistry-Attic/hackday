@@ -1,8 +1,8 @@
 # Hackday
 
-This repository contains public notes and links to open data sets for the internal Land Registry Hackday to be held in Plymouth on Thursday 6 November 2014.
+This repository contains public notes and links to open data sets for the internal Land Registry Hackday to be held in [Seaton Court, Plymouth](http://site.landregistry.gov.uk/contact-us/offices/plymouth) on Thursday 6 November 2014.
 
-Attendance is open to all Land Registry staff and people from other organisations working on the Land Registry Digital Service, but is otherwise by invitation only.
+Attendance is open to all Land Registry staff and people from other organisations working on the [Land Registry Digital Service](http://www.landregistryconcept.co.uk), but is otherwise by invitation only.
 
 <a href="poster.pdf"><img src="poster.png"></a>
 
