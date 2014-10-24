@@ -2,15 +2,15 @@
 
 This repository contains public notes and links to open data sets for the internal Land Registry Hackday to be held in Plymouth on Thursday 6 November 2014.
 
-Attendance is open to all Land Registry staff, people from other organisations who have been working with the Land Registry building their Digital Service, but is otherwise by invitation only.
+Attendance is open to all Land Registry staff and people from other organisations working on the Land Registry Digital Service, but is otherwise by invitation only.
 
-<a href="poster.pdf"><img src="poster.png"></a>
+<a href="https://raw.githubusercontent.com/LandRegistry/hackday/master/poster.pdf"<img src="poster.png"></a>
 
 # What is a hackday?
 
-An opportunity to explore new ideas by working with others in self-organised teams to build a demo to present at the end of the day.
+It's an opportunity to explore new ideas by working with others in self-organised teams to build a demo to present at the end of the day.
 
-There are many ways to contribute, by bringing a problem, forming a team, writing content, developing design, helping to present as well as wranging data and writing code. So you don't need to be a developer to participate — anyone can come along for all or part of the day, join a team and help make the day a success.
+There are many ways you can contribute, by bringing a problem, forming a team, writing content, developing design, helping to present as well as wranging data and writing code. So you don't need to be a developer to participate — anyone can come along for all or part of the day, join a team and help make the day a success!
 
 Ideas should meet the needs of a user, and you are encouraged to conduct some informal [user research](https://www.gov.uk/service-manual/user-centred-design/user-research) with people inside and outside of your organisation to find problems people are experiencing with Land Registry data or services ahead of the day and come with some ideas to work on with others on the day.
 
