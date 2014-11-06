@@ -37,7 +37,10 @@ Time | Activity
 * https://www.gov.uk/land-registration/data
 * https://www.gov.uk/browse/housing-local-services/owning-renting-property
 * https://www.gov.uk/government/publications/land-registry-office-addresses/office-addresses
+* https://www.gov.uk/inspire-index-polygons-spatial-data
 * https://www.geovation.org.uk/
-* http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
+* psd's posts on the price-paid data: http://blog.whatfettle.com/2014/10/13/one-csv-thirty-stories/
+* INSPIRE polygons as topojson/geojson: https://github.com/psd/landregistry-inspire-data
+* Flood data and other boundaries as topojson/geojson: https://github.com/JeniT/boundaries
 
 *Please add more links if you are a member of https://github.com/LandRegistry or via a pull-request..*
