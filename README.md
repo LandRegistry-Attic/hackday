@@ -12,9 +12,9 @@ It's an opportunity to explore new ideas by working with others in self-organise
 
 There are many ways you can contribute, by bringing a problem, researching needs, forming a team, writing content, developing design, helping to present as well as wranging data and writing code. So you don't need to be a developer to participate — anyone can come along for all or part of the day, join a team and help make the day a success!
 
-Ideas should meet the needs of a user, and you are encouraged to conduct some informal [user research](https://www.gov.uk/service-manual/user-centred-design/user-research) with people inside and outside of your organisation to find problems people are experiencing with Land Registry data or services ahead of the day and come with some ideas to work on with others on the day.
+Ideas should meet the needs of a user, and you are encouraged to conduct some informal [user research](https://www.gov.uk/service-manual/user-centred-design/user-research) with people inside and outside of your organisation to find problems people are experiencing with Land Registry data or services ahead of the day and come with some ideas to work on with others on the day. These may be ideas that have already been identified as part of the IT Solutions Challenge.
 
-Great ideas may be developed further either as a part of the Digital Service or under the Land Registry Innovation Challenge.
+Great ideas may be developed further either as a part of the Digital Service.
 
 * https://gds.blog.gov.uk/2014/08/05/this-is-what-transformation-looks-like/
 * https://designnotes.blog.gov.uk/2014/08/04/why-governments-need-hack-days/ 
